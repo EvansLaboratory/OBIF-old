@@ -4,8 +4,7 @@ Title: Omics-Based Interaction Framework
 Version: 0.1.0
 Author: c(person("Jezreel", "Pantaleón García", email = "jpantaleon@mdanderson.org", role = c("aut", "cre")))
 Maintainer: Jezreel Pantaleón García <jpantaleon@mdanderson.org>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: OBIF Package in R is the analytical component of Omics-Based Interaction Framework to discover molecular drivers of synergism from Omics data from a single or multiple platforms. The package is primarily design to perform full factorial analysis for differential expression and contrast analysis from single vs dual-treated/exposed Omics dataset.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
